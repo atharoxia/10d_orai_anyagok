@@ -15,3 +15,5 @@ print(tanuloiq)
 #A lista 6-iktól 10-ik eleme:
 reszlista = tanuloiq[5:10]  #Az első szám a kezdőindex, a második eggyel nagyobb, mint az utolsó
 print(reszlista)
+
+

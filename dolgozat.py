@@ -1,57 +1,58 @@
 
-import random
+f = open("be.txt", "r", encoding="utf-8")
+sorok = f.readlines()
+f.close()
+
 szamok = []
-for i in range(70):
-    szamok.append(random.randint(-40,50))
+for i in range(len(sorok)):
+    szamok.append(int(sorok[i]))
 
 print(szamok)
 
-print("1. Feladat")
+
+print("1. feladat")
+hszam = False
 for i in range(len(szamok)):
-    if szamok[i] % 5 == 0 and szamok[i] % 4 == 0:
-        print(szamok[i])
+    if szamok[i] % 21 == 0:
+        hszam = True
         break
 
-print("2. Feladat")
-Igaz = True
-sor = 0
-for i in range(len(szamok)):
-    if -10 > szamok[i] > -30:
-        sor = i
-        Igaz = False
-        break
-
-if Igaz == False:
-    print(f"Van -10-nél kisebb, de -30-nál nagyobb szám a sorozatban, Az első ilyen a {sor}.")
+if hszam == True:
+    print("Van a sorozatban 21-gyel osztható szám")
 else:
-    print("Nincs -10-nél kisebb, de -30-nál nagyobb szám a sorozatban")
+    print("Nincs a sorozatban 21-gyel osztható szám")
 
-print("3. Feladat")
-harmincasok = 0
-for i in range(len(szamok)):
-    if szamok[i] > 30:
-        harmincasok += 1
-print(f"Ennyi 30-nál nagyobb szám van a sorozatban: {harmincasok}")
 
-print("4. Feladat")
-min = 70
-mini = 0
+print("2. feladat")
 for i in range(len(szamok)):
-    if szamok[i] < min and szamok[i] >= 0:
+    if szamok[i] % 6 == 0 and szamok[i] % 13 == 0:
+        print(f"Az első 6-tal és 13-mal osztható szám indexe: {i}")
+        break
+
+
+print("3. feladat")
+osszeg = 0
+for i in range(len(szamok)):
+    osszeg += szamok[i]
+
+atlag = osszeg / len(szamok)
+print(f"A sorozatban található számok átlagának az ötszöröse: {atlag*5}")
+
+
+print("4. feladat")
+min = 1000
+for i in range(len(szamok)):
+    if szamok[i] <= min and szamok[i] > 20:
         min = szamok[i]
-        mini = i
-print(f"A legkisebb pozitív szám indexe: {mini}")
 
-print("5. Feladat")
-Van = True
-db = 0
+print(f"A legkisebb szám a 20-nál nagyobbak közül a: {min}")
+
+
+print("5. feladat")
+kii = open("kii.txt", "w", encoding="utf-8")
 for i in range(len(szamok)):
-    if szamok[i-1] > szamok[i] and szamok[i+1] > szamok[i]:
-        db = i
-        Van = False
-        break
+    if szamok[i] < 25 and szamok[i] > -25:
+        print(szamok[i], file=kii)
 
-if Van == False:
-    print(f"Van olyan szám, amely kisebb az előtte és az utána álló számnál is, Az első ilyen a: {db}.")
-else:
-    print("Nincs ilyen szám, amely kisebb az előtte és az utána álló számnál is")
+kii.close()
+

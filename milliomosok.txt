@@ -1,0 +1,31 @@
+1| Melyik bolygón a leghosszabb egy nap? | A) Mars | B) Föld | C) Vénusz | D) Merkúr |C|A|B|Hát figyelj, én nem jártam sok bolygón, de egyszer olvastam valahol, hogy a Vénusz olyan lassan forog, hogy még egy kávé is kihűl rajta egy nap alatt.|
+2| Hány hónapban van 31 nap? | A) 6 | B) 7 | C) 8 | D) 9 |B|C|D|Nem számoltam végig, mert hosszú lett volna, de biztos vagyok benne, hogy hét hónapban van 31 nap, mert a naptár mindig becsap.|
+3| Melyik állat NEM emlős? | A) Delfin | B) Denevér | C) Bálna | D) Cápa |D|A|B|Én szeretem az állatokat, de a cápa valahogy nem tűnik olyan tejes dobozos típusnak, szóval az nem emlős.|
+4| Melyik szám római számmal: XL? | A) 40 | B) 50 | C) 60 | D) 90 |A|C|B|A római számok mindig összezavarnak, de az negyven az pont úgy néz ki, mint az XL, szerintem ez lesz az.|
+5| Melyik évszakban a legrövidebbek a nappalok? | A) Tavasz | B) Nyár | C) Ősz | D) Tél |D|A|B|Hideg van, sötét van, nem látok semmit, szóval a tél lesz az az évszak, amikor a nappalok rövidek.|
+6| Melyik ország pénzneme a forint? | A) Szlovákia | B) Magyarország | C) Románia | D) Horvátország |B|A|D|Nem vagyok pénzügyes, de a Magyarország szó hallatán mindig a forint ugrik be, lehet a reklámok miatt.|
+7| Melyik hangszer tartozik a fúvósok közé? | A) Hárfa | B) Zongora | C) Klarinét | D) Cselló |C|A|B|Nem fújom jól, de a klarinét az tipikusan az a hangszer, amit bele kell fújni, más nem nagyon jut eszembe.|
+8| Melyik szó helyesírása helyes? | A) muszáj | B) muszály | C) muszaly | D) muszájly |A|C|B|Ezen mindig vitatkoznak, de a tanárom hangja most is a fejemben van, és azt mondja, hogy muszáj.|
+9| Hány oldala van egy szabályos hatszögnek? | A) 5 | B) 6 | C) 7 | D) 8 |B|A|D|Rajzoltam volna egyet, de fejben is megvan, hogy egy szabályos hatszögnek hat oldala van.|
+10| Melyik nem alapszín? | A) Piros | B) Kék | C) Zöld | D) Sárga |C|A|B|A festékek világában nem vagyok otthon, de a zöld valahogy mindig keveréknek tűnt, nem alapnak.|
+11| Melyik város NEM európai főváros? | A) Bern | B) Ottawa | C) Madrid | D) Bécs |B|C|D|lehet, hogy messze van, de az Ottawa gyanúsan nem Európában van, inkább térkép szélén.|
+12| Ki volt Kleopátra szeretője? | A) Julius Caesar | B) Augustus | C) Néró | D) Brutus |A|C|B|A történelemórán félig aludtam, de arra emlékszem, hogy Julius Caesar körül mindig volt valami dráma.|
+13| Melyik szám prímszám? | A) 21 | B) 27 | C) 29 | D) 33 |C|A|B|Nem szeretem a matekot, de ránézésre a huszonkilenc olyan magányos szám, szóval prímszám.|
+14| Mi volt az internet elődjének neve? | A) TCP/IP | B) ARPANET | C) WWW | D) UNIX |B|A|D|Az internet előtt is volt élet, és azt hiszem, ARPANET volt a neve, bár akkor még lassabb volt minden.|
+15| Melyik magyar folyó NEM a Dunába ömlik? | A) Dráva | B) Tisza | C) Rába | D) Körös |D|A|B|A folyók összekevernek, de a Körös szerintem nem a Dunába megy, hanem inkább máshová kanyarodik.|
+16| Ki írta a „Pál utcai fiúkat”? | A) Mikszáth Kálmán | B) Molnár Ferenc | C) Jókai Mór | D) Móricz Zsigmond |B|D|C|Könyv volt, kötelező volt, és a Molnár Ferenc név örökre beleégett az agyamba.|
+17| Melyik ország zászlajában van cédrusfa? | A) Libanon | B) Izrael | C) Jordánia | D) Irán |A|C|B|Zászlók, fák, jelképek… a Libanon az, ahol konkrétan egy cédrus van középen, azt még én is felismerem.|
+18| Hány bit egy bájt? | A) 6 | B) 7 | C) 8 | D) 16 |C|A|B|A számítógépem se gyors, de tudom, hogy egy bájt az nyolc bitből áll.|
+19| Melyik bolygón a legnagyobb a gravitáció? | A) Föld | B) Mars | C) Jupiter | D) Szaturnusz |C|A|B|Ha leesel, ott nem kelsz fel könnyen, mert a Jupiter gravitációja brutális, ezt még egy filmben is mondták.|
+20| Mi a kémiai jele a nátriumnak? | A) N | B) Na | C) Nt | D) |B|A|C|Kémiából megbuktam, de a nátrium az Na, mert a só mindig eszembe juttatja.|
+21| Melyik évben jelent meg az „Ember tragédiája”? | A) 1857 | B) 1861 | C) 1875 | D) 1883 |B|A|D|Régi könyv, régi évszám, de valahogy az 1861 maradt meg, mikor az Ember tragédiája megjelent.|
+22| Ki volt Magyarország kormányzója a két világháború között? | A) Tisza István | B) Horthy Miklós | C) Bethlen István | D) Károlyi Mihály |B|C|D|A két világháború között mindig a Horthy Miklós név kerül elő, akármit is kérdeznek.|
+23| Melyik elem vegyjele: Pb? | A) Platina | B) Ólom | C) Higany | D) Réz |B|A|C|A Pb nem túl beszédes, de az ólom nehéz, és ez a jel is nehéznek néz ki.|
+24| Melyik matematikushoz köthető a logaritmus? | A) Newton | B) Euler | C) Napier | D) Gauss |C|A|B|A logaritmus szó hallatán mindig a Napier ugrik be, bár nem tudom miért, de biztos ő volt az.|
+25| Melyik ország volt a Szovjetunió része? | A) Lengyelország | B) Finnország | C) Észtország | D) Románia |C|A|B|A térképen bogarászva az Észtország egyértelműen benne volt a Szovjetunióban, erre emlékszem.|
+26| Mi az Oort-felhő? | A) Galaxis | B) Csillagközi por | C) Üstökösök forrásvidéke | D) Aszteroidaöv |C|A|B|Az Oort-felhő az nem igazi felhő, hanem az üstökösök forrásvidéke, ami már önmagában elég menő.|
+27| Hány kromoszómája van az embernek? | A) 42 | B) 44 | C) 46 | D) 48 |C|A|B|Az ember bonyolult lény, de a kromoszómák száma negyvenhat, ezt még filmekben is mondják.|
+28| Melyik nyelv finnugor? | A) Bolgár | B) Észt | C) Lett | D) Litván |B|D|C|A finnugor nyelvek közt az észt az, ami mindig együtt szerepel a magyarral valami táblázatban.|
+29| Ki festette a „Guernicát”? | A) Dalí | B) Miró | C) Picasso | D) Goya |C|A|B|A Picasso név hallatán mindig a Guernica jut eszembe, meg azok a furcsa arcok.|
+30| Melyik Nobel-díjat NEM Alfred Nobel alapította? | A) Fizikai | B) Kémiai | C) Irodalmi | D) Közgazdasági |D|A|B|A Nobel-díjak közt kilóg a közgazdasági, mert azt nem Alfred Nobel alapította, csak később csapták|
+
